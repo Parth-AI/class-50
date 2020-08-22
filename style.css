@@ -1,0 +1,12 @@
+body{
+     background: aquamarine;
+     text-align: center;
+}
+
+.flexbox{
+     display: flex;
+     flex-direction: center;
+     width: 100%;
+     align-items: center;
+     background: #111;
+}
